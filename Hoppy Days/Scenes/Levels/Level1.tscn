@@ -14,6 +14,7 @@ __meta__ = {
 [node name="Player" parent="." index="0" instance=ExtResource( 1 )]
 
 position = Vector2( 392.95, 788.738 )
+world_limit = 1980
 
 [node name="Camera2D" parent="Player" index="2" instance=ExtResource( 2 )]
 
